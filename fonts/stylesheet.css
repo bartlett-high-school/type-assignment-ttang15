@@ -46,3 +46,27 @@
     font-style: normal;
 
 }
+
+
+
+
+@font-face {
+    font-family: 'afta_serifitalic';
+    src: url('aftaserifthin-italic-webfont.woff2') format('woff2'),
+         url('aftaserifthin-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'afta_serifregular';
+    src: url('aftaserifthin-regular-webfont.woff2') format('woff2'),
+         url('aftaserifthin-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
