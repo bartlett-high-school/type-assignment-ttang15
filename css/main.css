@@ -1,5 +1,72 @@
 /* Hint! the @font-face rule needs to be the first thing in your CSS file!*/
+@font-face {
+    font-family: 'caviar_dreamsbold';
+    src: url('../fonts/caviar_dreams_bold-webfont.woff2') format('woff2'),
+         url('../fonts/caviar_dreams_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
+}
+
+
+
+
+@font-face {
+    font-family: 'caviar_dreamsbold_italic';
+    src: url('../fonts/caviardreams_bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/caviardreams_bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'caviar_dreamsitalic';
+    src: url('../fonts/caviardreams_italic-webfont.woff2') format('woff2'),
+         url('../fonts/caviardreams_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'caviar_dreamsregular';
+    src: url('../fonts/caviardreams-webfont.woff2') format('woff2'),
+      url('../fonts/caviardreams-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'afta_serifitalic';
+     src: url('../fonts/aftaserifthin-italic-webfont.woff2') format('woff2'),
+        url('../fonts/aftaserifthin-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'afta_serifregular';
+    src: url('../fonts/aftaserifthin-regular-webfont.woff2') format('woff2'),
+       url('../fonts/aftaserifthin-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 
 /* Start the CSS*/
 body {
